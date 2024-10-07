@@ -50,6 +50,11 @@ Copy code
 cd backend
 install node modules
 node index.js
+
+
 This setup will launch the application on your local environment, allowing you to begin development or testing.
 
 By focusing on transparency, accessibility, and blockchain's inherent security, our platform aims to revolutionize the Green credit marketplace.
+
+Video Explanation : https://x.com/KhushdSharma/status/1843337572933873999?t=wF_zt2yTTuFXLoBvjmZZPw&s=08
+
