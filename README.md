@@ -42,6 +42,8 @@ cd frontend
 install node modules
 npm install remixicon --save
 npm run dev
+
+
 Open another terminal and move to the backend directory:
 bash
 Copy code
