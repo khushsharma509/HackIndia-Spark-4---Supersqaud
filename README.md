@@ -1,62 +1,43 @@
-# HackIndia-Spark-4---Supersqaud
-Our Ethereum-based Green Credit Marketplace provides a decentralized, transparent platform for buying, selling, and exchanging green credits with lower fees and real-time verification. It simplifies green credit trading, making sustainability efforts more accessible and efficient for all.
+## Overview
+A Web3-based Green credit marketplace leveraging the Ethereum blockchain, utilizing the MERN stack, Solidity and Web3.js, with MetaMask integration for enhanced accessibility and transparency.
+
+
+## Features
+- **Blockchain Integration**
+  - Ethereum-based for decentralization and security.
+  - Transparent and immutable transactions.
+- **Technology Stack**
+  - **MERN Stack**:
+    - **M**ongoDB for user database management.
+    - **E**xpress.js for server-side logic.
+    - **R**eact.js for dynamic front-end.
+    - **N**ode.js for server-side environment.
+  - **Web3.js** for blockchain interactions.
+- **MetaMask Integration**
+  - Easy and secure wallet management.
+  - Seamless transaction execution.
+- **Market Accessibility**
+  - User-friendly interface for all users.
+  - Democratized access to Green credits.
+
+
+## How It Works
+1. **User Registration and Login**
+   - Users register and log in using their MetaMask wallet.
+2. **Browse and Purchase Green Credits**
+   - Users can browse available Green credits.
+   - Purchase transactions are executed on the Ethereum blockchain.
+3. **Transaction Transparency**
+   - All transactions are publicly visible on the blockchain.
+   - Ensures accountability and traceability of Green credits.
 
 
 
-Project Overview
-Our initiative aims to establish a cutting-edge Green credit marketplace using Web3 technologies on the Ethereum blockchain. This platform leverages the transparency and security of blockchain to democratize access to Grenn credits, promoting sustainability and accountability.
-
-Key Features
-Blockchain Integration
-Utilizes Ethereum for decentralized transactions and immutability.
-Ensures transparent and secure transactions.
-Technology Stack
-MERN Stack:
-MongoDB for robust database management.
-Express.js for efficient server-side logic.
-React.js for dynamic and responsive front-end.
-Node.js for scalable server-side scripting.
-Web3.js for seamless interaction with the Ethereum blockchain.
-MetaMask Integration
-Facilitates user-friendly and secure wallet management.
-Enables smooth execution of transactions.
-Enhanced Market Accessibility
-Offers an intuitive interface accessible to all users.
-Empowers individuals and organizations to participate in Grenn credit trading.
-Operational Workflow
-User Registration and Authentication
-Users register and log in securely using their MetaMask wallet.
-Exploring and Purchasing Grenn Credits
-Browse through available Grenn credits listed on the platform.
-Execute purchase transactions directly on the Ethereum blockchain.
-Transaction Visibility and Accountability
-All transaction records are publicly visible on the blockchain.
-Guarantees traceability and accountability of Grenn credit transactions.
-Getting Started
-To initiate the project locally, follow these steps:
-
-Navigate to the frontend directory:
-
-cd frontend
-install node modules
-npm install remixicon --save
-npm run dev
 
 
-Open another terminal and move to the backend directory:
-
-cd backend
-install node modules
-node index.js
+   cd frontend
+   npm run dev
 
 
-This setup will launch the application on your local environment, allowing you to begin development or testing.
-
-By focusing on transparency, accessibility, and blockchain's inherent security, our platform aims to revolutionize the Green credit marketplace.
-
-
-
-Video Explanation : https://x.com/KhushdSharma/status/1843337572933873999?t=wF_zt2yTTuFXLoBvjmZZPw&s=08
-
-https://www.linkedin.com/posts/swastik-verma-153b30253_hackindia2024-hackindia2024-blockchain-activity-7249093910608666624-qgkT?utm_source=share&utm_medium=member_android
-
+   cd backend
+   node index.js
