@@ -58,3 +58,5 @@ By focusing on transparency, accessibility, and blockchain's inherent security, 
 
 Video Explanation : https://x.com/KhushdSharma/status/1843337572933873999?t=wF_zt2yTTuFXLoBvjmZZPw&s=08
 
+                    https://www.linkedin.com/posts/swastik-verma-153b30253_hackindia2024-hackindia2024-blockchain-activity-7249093910608666624-qgkT?utm_source=share&utm_medium=member_android
+
