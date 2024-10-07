@@ -30,6 +30,8 @@ A Web3-based Green credit marketplace leveraging the Ethereum blockchain, utiliz
 3. **Transaction Transparency**
    - All transactions are publicly visible on the blockchain.
    - Ensures accountability and traceability of Green credits.
+  
+Video Explanation: https://www.linkedin.com/posts/swastik-verma-153b30253_hackindia2024-hackindia2024-blockchain-activity-7249093910608666624-qgkT?utm_source=share&utm_medium=member_android
 
 
 
