@@ -43,3 +43,5 @@ node index.js
 This setup will launch the application on your local environment, allowing you to begin development or testing.
 
 By focusing on transparency, accessibility, and blockchain's inherent security, our platform aims to revolutionize the Grenn credit marketplace.
+
+Site is Live at: https://anothertry-delta.vercel.app/
